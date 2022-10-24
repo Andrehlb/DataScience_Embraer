@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="5CF43951-1666-0F0A-C566-A8BB23471864" mainViewID="B22C3A70-ABD5-4BDA-2B79-6D9B466EAA29">
+<createdBy>andre</createdBy>
+<createdTime>2022-10-17 13:32:15 UTC</createdTime>
+<ownerDesignName>Embraer_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+</relationalModel>

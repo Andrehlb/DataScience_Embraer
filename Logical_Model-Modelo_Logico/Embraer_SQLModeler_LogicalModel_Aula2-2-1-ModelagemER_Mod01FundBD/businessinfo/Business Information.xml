@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="144F232C-BB9E-AB58-5BF3-F40E8B6BA8E5">
+<createdBy>andre</createdBy>
+<createdTime>2022-10-17 13:32:12 UTC</createdTime>
+<ownerDesignName>Embraer_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

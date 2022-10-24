@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<StructuredType class="oracle.dbtools.crest.model.design.datatypes.StructuredType" name="XMLTYPE" directorySegmentName="seg_0" id="F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1">
+<createdBy>andre</createdBy>
+<createdTime>2022-10-17 13:32:12 UTC</createdTime>
+<ownerDesignName>Embraer_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD</ownerDesignName>
+<visible>false</visible>
+<predefined>true</predefined>
+<final>false</final>
+<instantiable>true</instantiable>
+</StructuredType>

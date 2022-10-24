@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="48ECAC48-C2CC-68A9-7913-82BB9842C21D" mainViewID="4C53D809-E578-47CC-D12A-A709C2D3A1B1">
+<createdBy>andre</createdBy>
+<createdTime>2022-10-17 13:32:11 UTC</createdTime>
+<ownerDesignName>Embraer_LogicalModel_Aula2-2-1-ModelagemER_Mod01FundBD</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
