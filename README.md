@@ -1,3 +1,3 @@
 # Data Science
-Development Data Science projects
-//To develop new forms and possibilities in the Cloud 🌥 Data Base 🌐 SQL, MySQL and to code!
+Development Logic and Physic Model using MySQL and Power BI applications and storage at Azure and AWS Data Base.
+Coding in Python for Data Science assplications.
