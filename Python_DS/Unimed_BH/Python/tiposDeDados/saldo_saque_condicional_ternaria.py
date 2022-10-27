@@ -1,0 +1,1 @@
+# condicional if ternária, situação de saldo e saque de conta bancária.
